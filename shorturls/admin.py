@@ -1,3 +1,4 @@
 from django.contrib import admin
+from shorturls.models import Link
 
-# Register your models here.
+admin.site.register(Link)

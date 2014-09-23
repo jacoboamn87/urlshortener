@@ -1,4 +1,4 @@
 urlshortener
 ============
 
-An URL shortener build following this tutorial http://arunrocks.com/understanding-tdd-with-django/
+An URL shortener build based on this tutorial http://arunrocks.com/understanding-tdd-with-django/
